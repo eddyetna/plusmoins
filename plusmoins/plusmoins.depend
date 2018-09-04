@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535737182 source:/home/eddy/Projets/monprogramme/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
